@@ -1,16 +1,16 @@
-#Khudych Anastasiia
+# Khudych Anastasiia
 
 ---
 
-##Contacts:
+## Contacts:
 
 - Discord: Anastassia(0629)
-- email:anastasiahudich18@gmail.com
-- Telegram:@Anastasiia_Khudych
+- email: anastasiahudich18@gmail.com
+- Telegram: @Anastasiia_Khudych
 
 ---
 
-##About myself:
+## About myself:
 
 I am 21 years old. I want to have a good job with the opportunities to grow, develop myself, and
 learn something new and valuable. I am that type of person who studies continuously, I am seeking
@@ -20,7 +20,7 @@ Front-end developer.
 
 ---
 
-##Skills:
+## Skills:
 
 1. HTML5, CSS3
 2. JavaScript Basics
@@ -29,10 +29,10 @@ Front-end developer.
 
 ---
 
-##Code example:
+## Code example:
 
 ```
-function multiply (a,b){
+function multiply (a,b) {
 return a*b;
 }
 
@@ -40,12 +40,12 @@ return a*b;
 
 ---
 
-##Education:
+## Education:
 
 - V. N. Karazin Kharkiv National University
 - freeCodeCamp - Responsive Web Design (in progress)
 
-##Languages:
+## Languages:
 
 - Russian, Ukrainian - Native
 - English - B1+
