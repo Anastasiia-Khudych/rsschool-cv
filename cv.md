@@ -26,3 +26,26 @@ Front-end developer.
 2. JavaScript Basics
 3. Git, GitHub
 4. VS Code
+
+---
+
+##Code example:
+
+```
+function multiply (a,b){
+return a*b;
+}
+
+```
+
+---
+
+##Education:
+
+- V. N. Karazin Kharkiv National University
+- freeCodeCamp - Responsive Web Design (in progress)
+
+##Languages:
+
+- Russian, Ukrainian - Native
+- English - B1+
