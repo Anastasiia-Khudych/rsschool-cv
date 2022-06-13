@@ -13,7 +13,14 @@ img {
 
 /* General styles*/
 
+html {
+  height: 100%;
+}
+
 body {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
   font-family: "Roboto Slab", serif;
   font-style: normal;
   font-size: 16px;
@@ -50,7 +57,6 @@ nav {
 nav ul {
   height: 100%;
   display: flex;
-  flex-direction: row;
   justify-content: space-around;
   list-style: none;
   align-items: center;
@@ -61,21 +67,23 @@ nav ul {
 main {
   position: relative;
   top: 60px;
-  display: flex;
+  width: 100%;
+  height: fit-content;
+  margin: 0 auto;
+  display:inline-flex;
   line-height: 1.9;
+  flex: 1 0 auto;
 }
 
 .right_side {
-  width: 800px;
-  flex-grow: 2;
+  width: 70%;
   background-color: #EFEAD8;
   padding: 30px;
 }
 
 .left_side {
-  width: 300px;
-  flex-grow: 1;
-  background-color:#6D8B74;
+  width: 30%;
+  background-color: #6D8B74;
   padding: 30px;
   color: #EFEAD8;
 }
@@ -123,20 +131,20 @@ main {
 footer {
   position: relative;
   top: 60px;
+  flex: 0 0 auto;
+  height: 80px;
   display: flex;
   justify-content: space-around;
   align-items: center;
+  background-color: #D0C9C0;
   font-family: "Ruda", sans-serif;
-  background-color:#D0C9C0;
   color: black;
 }
 
-.github {
-  display: flex;
-}
- .github figcaption {
+.github p {
   color: black;
- }
+}
+
 
 
 
