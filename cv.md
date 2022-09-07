@@ -53,6 +53,6 @@ function deepCount(arr) {
 
 ## Projects:
 
-- [Momentum app](https://rolling-scopes-school.github.io/anastasiia-khudych-JSFEPRESCHOOL2022Q2/momentum/)
-- [Travel website](https://rolling-scopes-school.github.io/anastasiia-khudych-JSFEPRESCHOOL2022Q2/travel/)
-- [Eldritch Horror](https://rolling-scopes-school.github.io/anastasiia-khudych-JSFEPRESCHOOL2022Q2/codejam/)
+- [Momentum app] (https://rolling-scopes-school.github.io/anastasiia-khudych-JSFEPRESCHOOL2022Q2/momentum/)
+- [Travel website] (https://rolling-scopes-school.github.io/anastasiia-khudych-JSFEPRESCHOOL2022Q2/travel/)
+- [Eldritch Horror] (https://rolling-scopes-school.github.io/anastasiia-khudych-JSFEPRESCHOOL2022Q2/codejam/)
